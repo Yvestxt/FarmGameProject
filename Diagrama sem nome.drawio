@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T04:41:57.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="RA_BeE-uzGsbLB07_6Ad" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-28T18:36:31.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="YdXpt1dlxoDZ-GfdY3Nu" version="20.8.13" type="github">
   <diagram id="aPOsMcVIii7Fz24bNKIf" name="Página-1">
-    <mxGraphModel dx="1393" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1990" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,52 +94,14 @@
         <mxCell id="7uPcqM1s4n6I0LktkK0Z-101" value="+ Info(): String&#xa;+ RewardItem(): Item&#xa;+ RewardGold(): int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="7uPcqM1s4n6I0LktkK0Z-98" vertex="1">
           <mxGeometry y="88" width="200" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="7uPcqM1s4n6I0LktkK0Z-121" value="Farm" style="html=1;rounded=1;shadow=1;labelBackgroundColor=default;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="960" y="528" width="90" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="7uPcqM1s4n6I0LktkK0Z-122" value="Forest" style="html=1;rounded=1;shadow=1;labelBackgroundColor=default;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="528" width="90" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="7uPcqM1s4n6I0LktkK0Z-123" value="Desert" style="html=1;rounded=1;shadow=1;labelBackgroundColor=default;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="860" y="528" width="90" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="7uPcqM1s4n6I0LktkK0Z-124" value="Desert" style="html=1;rounded=1;shadow=1;labelBackgroundColor=default;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="528" width="90" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="7uPcqM1s4n6I0LktkK0Z-125" value="Mountain" style="html=1;rounded=1;shadow=1;labelBackgroundColor=default;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="580" width="90" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="7uPcqM1s4n6I0LktkK0Z-126" value="Beach" style="html=1;rounded=1;shadow=1;labelBackgroundColor=default;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="960" y="580" width="90" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="7uPcqM1s4n6I0LktkK0Z-127" value="Swamp" style="html=1;rounded=1;shadow=1;labelBackgroundColor=default;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="860" y="580" width="90" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="7uPcqM1s4n6I0LktkK0Z-128" value="Tundra" style="html=1;rounded=1;shadow=1;labelBackgroundColor=default;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="580" width="90" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="7uPcqM1s4n6I0LktkK0Z-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;endArrow=block;endFill=0;" parent="1" source="7uPcqM1s4n6I0LktkK0Z-63" target="7uPcqM1s4n6I0LktkK0Z-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7uPcqM1s4n6I0LktkK0Z-142" value="Biome" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=default;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="350" width="160" height="140" as="geometry">
-            <mxRectangle x="260" y="160" width="70" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7uPcqM1s4n6I0LktkK0Z-143" value="- BiomeName: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="7uPcqM1s4n6I0LktkK0Z-142" vertex="1">
-          <mxGeometry y="26" width="160" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="7uPcqM1s4n6I0LktkK0Z-144" value="" style="line;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="7uPcqM1s4n6I0LktkK0Z-142" vertex="1">
-          <mxGeometry y="80" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="7uPcqM1s4n6I0LktkK0Z-145" value="-" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="7uPcqM1s4n6I0LktkK0Z-142" vertex="1">
-          <mxGeometry y="88" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="7uPcqM1s4n6I0LktkK0Z-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=block;endFill=0;" parent="1" source="7uPcqM1s4n6I0LktkK0Z-147" target="7uPcqM1s4n6I0LktkK0Z-153" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7uPcqM1s4n6I0LktkK0Z-147" value="NPC" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=default;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="70" width="200" height="110" as="geometry" />
+          <mxGeometry x="80" y="785.62" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7uPcqM1s4n6I0LktkK0Z-148" value="- AvailableQuest: Quest[]&#xa;- FriendshipPoints: int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="7uPcqM1s4n6I0LktkK0Z-147" vertex="1">
           <mxGeometry y="26" width="200" height="44" as="geometry" />
@@ -151,10 +113,10 @@
           <mxGeometry y="78" width="200" height="32" as="geometry" />
         </mxCell>
         <mxCell id="7uPcqM1s4n6I0LktkK0Z-153" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cada NPC:&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Oferece Quests&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Tem pontos de amizade&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tem Falas&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tem um nome&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Tem uma casinha&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Pode negociar (todos?)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Pode andar (?)&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=1;startSize=26;swimlaneFillColor=default;rounded=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="54.38" width="230" height="141.25" as="geometry" />
+          <mxGeometry x="370" y="770" width="230" height="141.25" as="geometry" />
         </mxCell>
         <mxCell id="7uPcqM1s4n6I0LktkK0Z-155" value="Quantos serão?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=10;fillColor=default;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="180" width="110" height="30" as="geometry" />
+          <mxGeometry x="330" y="895.62" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
