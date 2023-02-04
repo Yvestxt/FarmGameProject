@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-04T02:06:12.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="jkRyUWHpJ_LIr0Jf2vnm" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-04T02:41:21.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="YQLzx_se1TmRPhu5uP_0" version="20.8.16" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1161" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2143" dy="1237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -195,13 +195,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SJo5ltNFuGh-xrkQavzZ-268" value="&amp;lt;player&amp;gt; pode encontrar cabana na Jungle &amp;lt;quest&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1360" y="830" width="120" height="80" as="geometry" />
+          <mxGeometry x="2010" y="690" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SJo5ltNFuGh-xrkQavzZ-270" value="SOBREVIVENTES?" style="fontStyle=1;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(240, 240, 240);fillColor=none;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1360" y="620" width="160" height="30" as="geometry" />
+          <mxGeometry x="2010" y="480" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SJo5ltNFuGh-xrkQavzZ-272" value="&lt;QUEST&gt; TEM ALGUÉM AÍ?" style="swimlane;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(240, 240, 240);fillColor=none;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1520" y="40" width="360" height="360" as="geometry">
+          <mxGeometry x="1960" y="50" width="360" height="360" as="geometry">
             <mxRectangle x="800" y="240" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -209,7 +209,7 @@
           <mxGeometry x="40" y="41" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SJo5ltNFuGh-xrkQavzZ-274" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1480" y="715" width="120" height="80" as="geometry" />
+          <mxGeometry x="2130" y="575" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SJo5ltNFuGh-xrkQavzZ-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=265;entryDy=920;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(240, 240, 240);endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SJo5ltNFuGh-xrkQavzZ-180" target="SJo5ltNFuGh-xrkQavzZ-185">
           <mxGeometry relative="1" as="geometry" />
