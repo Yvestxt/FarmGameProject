@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-04T01:03:42.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="uN-g6kVClkpHCRRNowul" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-04T01:22:44.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="n3N5_W5T02gGqcXxbKHM" version="20.8.16" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="995" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="961" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -163,13 +163,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SJo5ltNFuGh-xrkQavzZ-216" value="Cientista manda &amp;lt;player&amp;gt; encontrar comida" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" y="595" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="SJo5ltNFuGh-xrkQavzZ-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=rgb(240, 240, 240);endArrow=classic;endFill=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SJo5ltNFuGh-xrkQavzZ-228" target="SJo5ltNFuGh-xrkQavzZ-305">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SJo5ltNFuGh-xrkQavzZ-228" value="DE-EXTINÇÃO" style="fontStyle=1;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(240, 240, 240);fillColor=none;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="830" y="990" width="130" height="30" as="geometry" />
+          <mxGeometry x="1000" y="600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SJo5ltNFuGh-xrkQavzZ-260" value="&lt;QUEST&gt; PRIMEIROS PASSOS" style="swimlane;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(240, 240, 240);fillColor=none;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="800" y="40" width="200" height="440" as="geometry">
@@ -244,17 +238,25 @@
         <mxCell id="SJo5ltNFuGh-xrkQavzZ-302" value="Cientista está irritado" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="840" y="600" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="SJo5ltNFuGh-xrkQavzZ-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=rgb(240, 240, 240);endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SJo5ltNFuGh-xrkQavzZ-305" target="SJo5ltNFuGh-xrkQavzZ-322">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SJo5ltNFuGh-xrkQavzZ-305" value="&amp;lt;cientista&amp;gt; diz que encontrou criaturas extintas e pede ao player para explorar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" y="960" width="120" height="90" as="geometry" />
+          <mxGeometry x="840" y="970" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SJo5ltNFuGh-xrkQavzZ-309" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=rgb(240, 240, 240);endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SJo5ltNFuGh-xrkQavzZ-307" target="SJo5ltNFuGh-xrkQavzZ-305">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="940" />
+              <mxPoint x="900" y="940" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="SJo5ltNFuGh-xrkQavzZ-307" value="PRIMEIROS PASSOS" style="fontStyle=1;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(240, 240, 240);fillColor=none;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="995" y="866" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SJo5ltNFuGh-xrkQavzZ-311" value="&lt;QUEST&gt; DE-EXTINÇÃO" style="swimlane;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(240, 240, 240);fillColor=none;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1040" y="40" width="400" height="440" as="geometry">
+        <mxCell id="SJo5ltNFuGh-xrkQavzZ-311" value="&lt;QUEST&gt; EXTINÇÃO?" style="swimlane;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(240, 240, 240);fillColor=none;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="40" width="200" height="440" as="geometry">
             <mxRectangle x="800" y="240" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -269,6 +271,9 @@
         </mxCell>
         <mxCell id="SJo5ltNFuGh-xrkQavzZ-317" value="Desbloqueia&lt;br&gt;&lt;b&gt;ALBUM&lt;/b&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=middle;align=center;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(240, 240, 240);fillColor=none;gradientColor=none;" vertex="1" parent="SJo5ltNFuGh-xrkQavzZ-311">
           <mxGeometry x="40" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo5ltNFuGh-xrkQavzZ-322" value="EXTINÇÃO?" style="fontStyle=1;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(240, 240, 240);fillColor=none;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="995" y="1000" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
