@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T19:53:10.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="5Da-Y4jQogml03pEWfoj" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T19:57:07.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="Bvuj0wD48lrEU6xPy5jX" version="20.8.16" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1393" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1990" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -292,8 +292,14 @@
         <mxCell id="SJo5ltNFuGh-xrkQavzZ-331" value="Desbloqueia&lt;br&gt;Pet Baby Rex" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=middle;align=center;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(240, 240, 240);fillColor=none;gradientColor=none;" parent="SJo5ltNFuGh-xrkQavzZ-327" vertex="1">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PqvfYSfXsbXu6g-fTQl8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PqvfYSfXsbXu6g-fTQl8-0" target="PqvfYSfXsbXu6g-fTQl8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PqvfYSfXsbXu6g-fTQl8-0" value="&amp;lt;player&amp;gt; livre para explorar os biomas adjacentes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="840" y="1170" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PqvfYSfXsbXu6g-fTQl8-6" value="Primeiro NPC fazendeiro pode ser encontrado" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="995" y="1170" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
